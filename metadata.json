@@ -1,0 +1,5 @@
+{
+  "name": "OkoPos - Smart Restaurant Manager",
+  "description": "A comprehensive restaurant management system featuring POS, Table Management, Kitchen Display System, and AI-powered menu insights using Gemini 2.5.",
+  "requestFramePermissions": []
+}
